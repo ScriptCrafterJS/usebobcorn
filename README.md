@@ -1,4 +1,5 @@
 # usePopcorn
+[Go Live](https://usebobcorn.vercel.app/)
 
 🍿 **usePopcorn** is a React application for searching movies, viewing details, and managing your watched list. It leverages the OMDb API to fetch movie data and provides a user-friendly interface for movie enthusiasts.
 
